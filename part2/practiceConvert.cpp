@@ -4,9 +4,9 @@
 int main()
 {
 	using namespace std;
-	cout << "Please Enter an distance of ÀË £º";
+	cout << "Please Enter an distance of æµª";
 	int lang;
 	cin >> lang;
-	cout << "The equal distance by Âë of £º" << lang << " ÀË is " << lang *220;
+	cout << "The equal distance by ç  of æµª" << lang << "  is " << lang *220;
 	return 0;
 }

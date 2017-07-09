@@ -4,6 +4,6 @@ Sample Code and Pracitce Record of part work
 
 #part 3
 Dealwith data
-####long¡¢int¡¢short¡¢char¡¢bool
-####float¡¢double¡¢long double
-####constÏŞ¶¨·û´´½¨³£Á¿
+####longã€intã€shortã€charã€bool
+####floatã€doubleã€long double
+####consté™å®šç¬¦åˆ›å»ºå¸¸é‡

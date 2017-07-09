@@ -4,7 +4,7 @@
 int main()
 {
 	using namespace std;
-	cout << "Enter the number of light years :¡¡";
+	cout << "Enter the number of light years : ";
 	float lightYears;
 	cin >> lightYears;
 

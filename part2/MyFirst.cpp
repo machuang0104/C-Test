@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 int main()
 {
@@ -8,7 +8,9 @@ int main()
 	//std::cin.get();
 	using namespace std;
 	cout << "Come up and C++ me some time.\n";
-	cin.get();  //cout << endl;
+	cin.get(); //cout << endl;
 	cout << "You won't regret it!" << endl;
+	cin.get();
+	cin.get();
 	return 0;
 }
