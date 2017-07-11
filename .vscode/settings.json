@@ -18,9 +18,13 @@
     "code-runner.saveFileBeforeRun": true,
     "code-runner.showExecutionMessage": true,
     "code-runner.runInTerminal": true,
-    "cppcheck.cppcheckPath": "D:\\C++Test",
-    "cppcheck.includePaths": [      
+    "cppcheck.cppcheckPath": "D:/C-Test/",
+    "cppcheck.includePaths": [
+        "D:\\MinGW\\lib\\gcc\\mingw32\\5.3.0\\include\\c++",
+        "D:\\MinGW\\lib\\gcc\\mingw32",
+        "D:/C-Test/"
     ],
+
     "cppcheck.suppressions": [
         "missingIncludeSystem"
     ],
@@ -91,4 +95,5 @@
         "xtree": "cpp",
         "xutility": "cpp"
     }
+>>>>>>> 8d199c3572aedde591839749c587fb1cb6867bfd
 }
